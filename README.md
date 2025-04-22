@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=Gr3gorywolf&show_icons=true&theme=tokyonight" alt="Gregory's GitHub Stats" />
@@ -48,9 +48,6 @@
 
 ---
 
-### 🌐 Let's Connect
-
-- 💼 LinkedIn: [Gregory Alexander Cabral De Los Santos](https://github.com/Gr3gorywolf](https://www.linkedin.com/in/gregory-alexander-cabral-de-los-santos-79835614b/)
 - 📫 Feel free to reach out!
 
 ---
