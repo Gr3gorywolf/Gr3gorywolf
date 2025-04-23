@@ -1,7 +1,3 @@
-<!-- Banner Pixel Art GIF -->
-<p align="center">
-  <img src="banner.gif" alt="Gregory Cabral - Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Gregory Cabral</h1>
 <h3 align="center">Software Developer from La Romana, Dominican Republic 🇩🇴</h3>
@@ -45,10 +41,6 @@
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=Gr3gorywolf&show_icons=true&theme=tokyonight" alt="Gregory's GitHub Stats" />
 </p>
-
----
-
-- 📫 Feel free to reach out!
 
 ---
 
